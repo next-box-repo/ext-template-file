@@ -1,0 +1,29 @@
+{
+    "version": "0.0.1",
+
+    "uniq_key": "your_apps_uniq_key", 
+
+    "name": {
+        "ru": "Название приложения",
+        "en": "App title"
+    },
+
+    "description": {
+        "ru": "Пример описания приложения на русском",
+        "en": "Example of app description in english"
+    },
+
+    "type": "file",
+    "icon": "icon.svg",
+
+    "file": {
+        "mode": "read_and_write",
+        "default_ext": ".example_extension",
+        "ext": [".example_extension"],
+        "index": "index.html"
+    },
+	"readme_path": {
+		"en": "readme_en.md",
+		"ru": "readme.md"
+    }
+}
