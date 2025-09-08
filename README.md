@@ -10,6 +10,7 @@ Explore more extensions and tools in the [NextBox Extensions Library](https://ne
 - [Installation](#installation)
 - [Development](#development)
 - [Building](#building)
+- [Documentation](#documentation)
 
 ## About
 
@@ -20,6 +21,8 @@ This template provides a modern development environment for building NextBox ext
 - **Vite** - Fast build tool and development server
 - **SWC** - Super-fast TypeScript/JavaScript compiler
 - **NextBox APIs** - Integration with NextBox platform capabilities
+
+For detailed information about extension development, including extension types (File, WorkDir, App), configuration, and deployment, refer to the [NextBox Extension Development Guide](https://docs.next-box.ru/platform/admin/extensions/guideline).
 
 ## Installation
 
