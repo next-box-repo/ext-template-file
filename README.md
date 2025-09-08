@@ -2,6 +2,8 @@
 
 Welcome to the NextBox Extension React Template! This boilerplate project is specifically designed for creating extensions for the NextBox platform. It combines the power of Vite, React, TypeScript, SWC, and NextBox APIs to give you a robust starting point for your extension development.
 
+Explore more extensions and tools in the [NextBox Extensions Library](https://next-box.ru/extensions) to see what's possible with the platform.
+
 ## Table of Contents
 
 - [About](#about)
